@@ -1,0 +1,154 @@
+{
+  "basics": {
+    "name": "Ramesh Vishnoi",
+    "label": "Front End Developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "ramesvishnoi90904@gmail.com",
+    "phone": "9004350196",
+    "website": "http://freaksauce.com",
+    "summary": "My current role at Disprz is Full Stack Developer using C#,DotNet,SQL server as Backend Technology, and React in Frontend. I have single handed developed and shipped React Native Application (Jio Xpressnews)in Android as well as IOS environment.My work is scalable as the both the application has 5~10 million downloads. Along with Jio Xpressnews, i developed many React Native Application for different industries ranging from VR Application using KRPano, Google Cardboard, and Live Streaming Media Application, Managing Assets,etc. i have developed custom components in React Native for Android Exoplayer, Recycler ListView in React Native. I have 2 year experience in React,React-Native and Redux.",
+    "location": {
+      "address": "Mumbai",
+      "postalCode": "2232",
+      "city": "Mumbai",
+      "countryCode": "In"
+    },
+    "profiles": [
+
+      {
+        "network": "Github",
+        "username": "rameshvishnoi90904",
+        "url": ""
+      },
+      {
+        "network": "linkedIn",
+        "username": "ramesh-vishnoi-3490b5b4",
+        "url": "https://linkedin.com/in/"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "5149570/ramesh-vishnoi",
+        "url": "https://stackoverflow.com/users/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Disprz",
+      "position": "Full Stack Developer",
+      "website": "http://disprz.com/",
+      "startDate": "2016-12-01",
+      "endDate": "",
+      "summary": "Currently working on React framework by Facebook. Developed K12 Education platform for schools and training platform for corporate industry to train blue collar and white collar employees.Technologies used are React, mysql and DotNet. Platform currently used by international schools in Thailand, Dubai, India. (BFits,Aakash Tutorials,etc) and Companies such as Naspers,Thyrocare,Rivigo,Delhivery,etc",
+      "highlights": [],
+      "websites":[],
+      "apps":[]
+
+    },
+    {
+      "company": "Reliance Jio Infocomm Ltd, Navi Mumbai",
+      "position": "React Native Developer",
+      "website": "",
+      "startDate": "2015-12-01",
+      "endDate": "2016-12-01",
+      "summary": "During my time at Reliance Jio Infocomm I worked on a couple of large React Native applications using React/Redux and large number of React Native Custom Components.",
+      "highlights": ["Developed and maintained exoplayer components for React Native framework, since video content were exclusive to the company and were drm (digital rights protected) so developed custom video player component for supporting hls, m3u8 videos.",
+        "Developed VR enabled custom views for mobile devices to support krpano and Google cardboard.",
+        "Developed CleverTap Component for integrating deep linking and push notifications for Android and ios devices.",
+        "Developed Coordinator level car Management Android and ios application using React Native  and Redux. Functionality includes tracking cars within 5km radius and booking, releasing  cars, setting destination for outgoing cars.",
+        "Developed OpenSourced Custom Recycler List view component for React Native framework for supporting list view containing items in the range of 1000."
+      ],
+      "websites":["https://github.com/rameshvishnoi90904/react-native-recycler-listview"],
+      "apps":[{"title":"Jio XpressNews Android","url":"https://play.google.com/store/apps/details?id=com.jio.media.jioxpressnews&hl=en"},{"title":"Jio XpressNews IOS","url":"https://itunes.apple.com/in/app/jioxpressnews/id1067320076?mt=8"}]
+    },
+    {
+      "company": "Synclature Solutions LLP , Andheri​",
+      "position": "Software Developer",
+      "website": "http://synclature.com/",
+      "startDate": "2014-12-01",
+      "endDate": "2015-12-01",
+      "summary": "Deployed functional websites, frontend and backend, using the WordPress CMS",
+      "highlights": ["Developed an Android Application (that notified user on scanning their barcode ) using the ZBar software suite for barcode generation and reading, along with Google Cloud Messaging for notifications and data communication to users"
+      ],
+      "websites":["www.synclature.com","www.mrugziee.com","http://chaoscontrol.cafe/","http://santushtam.com/","http://sachinihongogakkou.com/"],
+      "apps":[]
+    },
+    {
+      "company": "Reliance Communications Ltd,Navi Mumbai",
+      "position": "Intern",
+      "website": "",
+      "startDate": "2014-04-01",
+      "endDate": "2014-05-01",
+      "summary": "Developed Project on Location Based Services using JSP,JSON and Ajax.",
+      "highlights": [
+      ],
+      "websites":[],
+      "apps":[]
+    }
+  ],
+  "course":[
+    {
+      "title":"M101JS:MongoDb for Node.js Developer",
+      "url":"http://education.mongodb.com/downloads/certificates/5671c5011792462096b86c4874b1e8e8/Certificate.pdf"
+    },
+    {
+      "title":"Machine Learning course by Stanford University, delivered by Andrew",
+      "url":"https://www.coursera.org/account/accomplishments/verify/KBZNPH3D72LX"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "RAIT",
+      "area": "Computer Engineering,MU",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-01",
+      "endDate": "2015-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "React-Native",
+        "React",
+        "Android",
+        "dotNet",
+        "IOS",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "Typescript",
+        "SASS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Bootstrap",
+        "Node",
+        "php",
+        "MySQL",
+        "Git",
+        "Jira",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
